@@ -29,3 +29,10 @@ This project is intended for educational and archival purposes only. No ownershi
 ---
 
 **All rights to Fortnite and its assets belong to Epic Games, Inc.**
+
+
+## Other Credits
+
+- **[ChrisDev3lops](https://github.com/ChrisDev3lops)** – Website recreation, custom HTML, CSS, and development.
+
+👍
